@@ -1,11 +1,11 @@
-Title: Engagement étudiant
+Title: Job D'Été
 
 
-# 🤝 Engagement Étudiant
+# 🤝 Job D'Été
 
-## 🚒 Pompier volontaire
+## Interim 
 
-En parallèle de mes études en BTS SIO, je ne  suis pas **pompier volontaire** depuis 2 ans au sein du centre de secours de [VilleFictive].  
+En parallèle de mes études en BTS SIO, je travaillais durant la periode d'été en tant que Packeur et Agent Logiqtiquea a l'interim de TD Scynex a [Bussy Saint Georges].  
 
 <img src="{static}/images/Gemini_Generated_Image_v6orplv6orplv6or.jpeg" class="shadow" style="width:150px;" >
 
