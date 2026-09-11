@@ -31,4 +31,4 @@ En parallèle de mes études en BTS SIO, je travaillais durant la periode d'ét�
 
 ---
 
-📌 *Mon engagement de pompier volontaire illustre ma motivation à mettre mes compétences au service des autres, que ce soit dans le cadre d’interventions d’urgence ou dans mes projets informatiques.*  
+📌 *Mon engagement de packeur et agent de logistique illustre ma motivation à mettre mes compétences au service des autres, que ce soit dans le cadre d’interventions d’urgence ou dans mes projets informatiques.*  
